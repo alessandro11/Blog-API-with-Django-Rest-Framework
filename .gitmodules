@@ -1,0 +1,3 @@
+[submodule "celero-devops"]
+	path = celero-devops
+	url = https://github.com/alessandro11/celero-devops.git
